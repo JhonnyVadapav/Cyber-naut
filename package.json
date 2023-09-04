@@ -1,0 +1,25 @@
+{
+  "name": "cyber-naut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonnyVadapav/Cyber-naut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonnyVadapav/Cyber-naut/issues"
+  },
+  "homepage": "https://github.com/JhonnyVadapav/Cyber-naut#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
